@@ -1,0 +1,15 @@
+h2 { 
+    color: gray !important;
+    font-size: medium;
+}
+
+h3 {
+    color: red !important;
+    font-size: small;
+}
+
+.dispo{
+   display: flex;
+   flex-direction: column;
+}
+
