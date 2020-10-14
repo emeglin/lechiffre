@@ -36,5 +36,18 @@ h3 {
     padding: 0;
 }
 .footer {
-    background-color: black !important;
+    background: rgba(0, 0, 0, 0.589) !important;
+    background-attachment: fixed;
+
+}
+
+body {
+    border: none;
+    padding: 0;
+}
+
+.my-background {
+    background: gray !important;
+    background-size: cover;
+    background-attachment: fixed;
 }
